@@ -1,0 +1,1 @@
+Program umożliwiający pisanie programów obliczeniowych w języku Lua dla systemu PRO-2000.
